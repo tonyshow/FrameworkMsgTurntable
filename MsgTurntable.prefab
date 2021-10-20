@@ -2389,7 +2389,7 @@
     "rotationDirection": 0,
     "part": 8,
     "duration": 1,
-    "circleTotal": 7,
+    "circleTotal": 6,
     "isAudio": true,
     "isClickCircleStart": true,
     "nodeTurntable": {
